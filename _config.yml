@@ -1,6 +1,6 @@
 title: FRESH FLAVORS
 logo: /assets/img/logo.png
 description: Fresh Flavors is a website that allows the reader to indulge in fun, relatively simple recipes that they can easily recreate at home! 
-show_downloads: true
+show_downloads: false
 google_analytics:
 theme: jekyll-theme-minimal
